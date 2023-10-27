@@ -1,4 +1,4 @@
-# MERN-Stack
+# FIREBASE
 Repositório para testes de aplicação
 
 https://firebase.google.com/docs/firestore?authuser=0&hl=pt
@@ -19,3 +19,7 @@ marcar as seguintes opções:
 ![image](https://github.com/willigfreitas/Firebase/assets/48508462/27e8e846-4dd7-4966-9d1a-28c754d94743)
 
 Dessa forma estamos configurando apenas as opções de hospedagem e funções do Firebase, permitindo que você utilize o Firebase Hosting e as Cloud Functions, sem a necessidade de configurar bancos de dados.
+
+![image](https://github.com/willigfreitas/Firebase/assets/48508462/01c30c9a-7c24-4135-9f72-14f05ac54018)
+
+Os últimos ajustes são esses.
